@@ -6,6 +6,4 @@
  * Runnable at php server                                *
  * Functional Bot                                        *
  ******************************************************* */
-const apiKey='1129440034:AAH9IDQyncuCJC-F5G2javzaoNKlkQ4VnPU';
-const channelId="";
-const admin='668400001';
+const apiKey='1388047155:AAHW1On6Anj48nYkOG16G5ec3lWbGvOYdxg';
